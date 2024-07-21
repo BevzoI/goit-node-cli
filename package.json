@@ -15,7 +15,12 @@
   "license": "ISC",
   "homepage": "https://github.com/BevzoI/goit-node-cli#readme",
   "dependencies": {
+    "cli-table3": "^0.6.5",
     "commander": "^12.1.0",
     "nanoid": "^5.0.7"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/BevzoI/goit-node-cli/issues"
+  },
+  "keywords": []
 }
